@@ -1,7 +1,5 @@
 ![Maciej Greemi Banner](https://github.com/Greemi1/Greemi1/blob/main/assets/Baner.png?raw=true)
 
-<img alt="Night Coding" src="assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Maciej</h2>
-
 <!-- ## 👋 &nbsp;Hey there! I'm Maciej -->
 
 ### 👨🏻‍💻 &nbsp;About Me
