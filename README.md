@@ -1,6 +1,6 @@
-![Maciej Greemi Banner](https://github.com/Greemi1/Greemi1/blob/main/assets/Baner.png?raw=true)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Maciej -->
+
+👋 &nbsp;Hey there! I'm Maciej
 
 ### 👨🏻‍💻 &nbsp;About Me
 
